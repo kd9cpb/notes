@@ -4,8 +4,7 @@ QST
 American Legion
 
 In Progress:
-Hello World Python 3 edition
-The Field Guide to Understanding Human Error
+Fortune's Formula
 
 
 Things I have that I should read eventually:
@@ -23,7 +22,6 @@ Antifragile
 The Goal
 Click here to kill everybody
 Relaxation & stress reduction workbook
-Fortune's Formula
 
 
 
@@ -46,6 +44,10 @@ DevOps Manual
 The Cathedral & the Bazaar
 The Art of Cyber Conflict
 
+Networking & Programming
+Too many Cisco certification books to count
+Hello World rev 3 (kid's guide to python)
+
 
 Finance
 For Crying Out Loud - CME merger story
@@ -64,8 +66,9 @@ Thinking in Bets
 Team of Teams
 The Science of Success
 Getting to Yes
+Field Guide to Human Error
 
-Other Nonfiction
+Other
 War is a racket
 Come from Away
 Sex, Drugs and Cocoa Puffs

@@ -4,25 +4,31 @@ QST
 American Legion
 
 In Progress:
-The First 90 Days
-Your Next Move
+The road to serfdom
 
 
 Things I have that I should read eventually:
 The Art of Deception/Intrusion/Invincibility
-The road to serfdom
 Marine Corps way to winning wall-street
 Ender's game
 Catch 22
 Flow
 The man who solved the market
-Datachlysim
 Black Mass
 Farenheit 451
 1984
 Antifragile
 The Goal
 Relaxation & stress reduction workbook
+
+
+Things I want to read but have not bought yet:
+The Practice of Cloud System Administration Volume 2
+ Disciplined Pursuit of Less by Greg McKeown
+ The Shallows: What the Internet is Doing to Our Brains by Nicholas Carr
+Atomic Habits
+
+
 
 
 
@@ -70,6 +76,8 @@ Team of Teams
 The Science of Success
 Getting to Yes
 Field Guide to Human Error
+The First 90 Days
+Your Next Move
 
 Other
 War is a racket
@@ -80,4 +88,5 @@ The White Donkey
 Tubes - journey to the center of the internet
 Marine! Chesty Puller biography
 How Marines Fight
+Datachlysim
 

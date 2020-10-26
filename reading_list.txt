@@ -1,13 +1,17 @@
-Magazines I like:
+This is the full list of things I've read, excluding work related manuals or certification guides. It includes everything, some of which is either not worth reading or no longer applicable to today's world. For the list of books I like, check out https://kd9cpb.com/reading-list 
+
+Magazines I try to read regularly:
 QST
 2600
 American Legion
 
-In Progress:
-The road to serfdom
+
+Books In Progress:
+Become Ansible
+Various Cisco ISE + CISSP Books
 
 
-Things I have that I should read eventually:
+Things I bought that I should read eventually:
 The Art of Deception/Intrusion/Invincibility
 Marine Corps way to winning wall-street
 Ender's game
@@ -24,39 +28,38 @@ Relaxation & stress reduction workbook
 
 Things I want to read but have not bought yet:
 The Practice of Cloud System Administration Volume 2
- Disciplined Pursuit of Less by Greg McKeown
- The Shallows: What the Internet is Doing to Our Brains by Nicholas Carr
+Disciplined Pursuit of Less by Greg McKeown
+The Shallows: What the Internet is Doing to Our Brains by Nicholas Carr
 Atomic Habits
+mythical man month
 
 
-
-
-
-Fiction
-Digital Fortress - Dan Brown
+Fiction:
+Digital Fortress
 Brave New World
-
 
 
 Cybersecurity - story
 The Phoenix Project
 The Unicorn Project
 The Cuckoo's Egg
-Ghost in the Wires - Mitnick story
+Ghost in the Wires (Mitnik bio)
 
 
 Cybersecurity - guide/manual
-Zero day Zero Budget
+Zero Day Zero Budget
 DevOps Manual
 The Cathedral & the Bazaar
 The Art of Cyber Conflict
 
-Networking & Programming
-Too many Cisco certification books to count
+
+Networking & Programming:
+Too many Cisco & Microsoft & CompTIA certification books to count
 Hello World rev 3 (kid's guide to python)
+Tubes - journey to the center of the internet
 
 
-Finance
+Finance:
 For Crying Out Loud - CME merger story
 The Money Noose - MF Global downfall
 The WallStreetBets book
@@ -65,8 +68,10 @@ Options, Futures and Other Derivatives
 Capitalism and Freedom
 Rich Dad Poor Dad
 Fortune's Formula
+The Road to Serfdom
 
-Management/self-help
+
+Management/self-help:
 How to win friends & influence people
 Radical Candor
 Feeling Good
@@ -79,13 +84,13 @@ Field Guide to Human Error
 The First 90 Days
 Your Next Move
 
-Other
+
+Other:
 War is a racket
 Come from Away
 Sex, Drugs and Cocoa Puffs
 The internet is a playground
 The White Donkey
-Tubes - journey to the center of the internet
 Marine! Chesty Puller biography
 How Marines Fight
 Datachlysim

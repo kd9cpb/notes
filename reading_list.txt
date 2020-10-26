@@ -1,4 +1,6 @@
-This is the full list of things I've read, excluding work related manuals or certification guides. It includes everything, some of which is either not worth reading or no longer applicable to today's world. For the list of books I like, check out https://kd9cpb.com/reading-list 
+This is the full list of things I've read, excluding work related manuals or certification guides. 
+It includes everything, some of which is either not worth reading or no longer applicable to today's world. 
+For the list of books I actually recommend, check out https://kd9cpb.com/reading-list 
 
 Magazines I try to read regularly:
 QST
@@ -8,7 +10,7 @@ American Legion
 
 Books In Progress:
 Become Ansible
-Various Cisco ISE + CISSP Books
+Various Cisco ISE + CISSP Books (these won't make it on this list, but do take up a good chunk of my reading time)
 
 
 Things I bought that I should read eventually:

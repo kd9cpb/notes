@@ -1,6 +1,7 @@
 This is the full list of things I've read, excluding work related manuals or certification guides. 
 It includes everything, some of which is either not worth reading or no longer applicable to today's world. 
 For the list of books I actually recommend, check out https://kd9cpb.com/reading-list 
+I prefer Chicago Public Library whenever they're an option, otherwise betterworldbooks.com is my go-to bookstore.
 
 Magazines I try to read regularly:
 QST
@@ -9,6 +10,7 @@ American Legion
 
 
 Books In Progress:
+A Seat at the table
 Become Ansible
 Various Cisco ISE + CISSP Books (these won't make it on this list, but do take up a good chunk of my reading time)
 
@@ -26,6 +28,10 @@ Farenheit 451
 Antifragile
 The Goal
 Relaxation & stress reduction workbook
+The Practice of System and Network Administration
+Unf*ck IT!: A Candid Plan to Fix Your IT Department 
+Time Management for System Administrators 
+
 
 
 Things I want to read but have not bought yet:

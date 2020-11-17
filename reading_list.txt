@@ -40,6 +40,8 @@ Disciplined Pursuit of Less by Greg McKeown
 The Shallows: What the Internet is Doing to Our Brains by Nicholas Carr
 Atomic Habits
 mythical man month
+man's search for meaning
+crucial conversations
 
 
 Fiction:
@@ -71,7 +73,7 @@ Finance:
 For Crying Out Loud - CME merger story
 The Money Noose - MF Global downfall
 The WallStreetBets book
-All About Options
+Many of the "All About" finance books
 Options, Futures and Other Derivatives 
 Capitalism and Freedom
 Rich Dad Poor Dad

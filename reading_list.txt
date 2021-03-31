@@ -10,8 +10,7 @@ American Legion
 
 
 Books In Progress:
-Automate your network
-Become Ansible
+Eleven Rings
 Various Cisco/Juniper related books (these won't make it on this list, but do take up a good chunk of my reading time)
 
 
@@ -77,6 +76,9 @@ Too many Cisco & Microsoft & CompTIA certification books to count
 Hello World rev 3 (kid's guide to python)
 Tubes - journey to the center of the internet
 Unf*ck IT!: A Candid Plan to Fix Your IT Department 
+Automate your network
+Become Ansible
+Computer Networking Problems and Solutions
 
 
 Finance:

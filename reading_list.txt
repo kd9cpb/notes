@@ -15,7 +15,6 @@ Various Cisco/Juniper related books (these won't make it on this list, but do ta
 
 
 Things I bought that I should read eventually:
-The Art of Deception/Intrusion/Invincibility
 Marine Corps way to winning wall-street
 Ender's game
 Catch 22
@@ -71,6 +70,7 @@ Zero Day Zero Budget
 DevOps Manual
 The Cathedral & the Bazaar
 The Art of Cyber Conflict
+The Art of Deception
 
 
 Networking & Programming:
